@@ -1,7 +1,7 @@
 {
-  "url": "https://raw.githubusercontent.com/park-alter/wmcc-test/master/update/test.tar.gz",
+  "url": "https://raw.githubusercontent.com/park-alter/wmcc-test/master/update/test.gz",
   "name": "test",
   "version": "1.1.0-beta.1",
-  "sha1": "86153e2eab40ed6e88755c4a9e505c364be9e1cb",
-  "md5": "db04d73d0ddf2ea19f8d87d64fbd52fa"
+  "sha1": "1a4769dac9384e50a95ed82152bb5aa6e50574d9",
+  "md5": "40283a5a32617358a5e10e0386b0eb27"
 }
